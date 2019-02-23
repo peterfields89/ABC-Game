@@ -14,7 +14,6 @@ public class ABC {
 		else {
 			System.out.println("Helaas, " + ingegevene + " is niet goed. Start het spel opnieuw op :)");
 		}
-		
 		String ingegevene2 = scanner.nextLine();
 		if (ingegevene2.equals("b")) {
 			System.out.println("Heel goed " + naamIn + "! Het tweede letter van het alfabet is: b");
